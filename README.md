@@ -49,9 +49,7 @@ The dataset was inspected before being used for analysis.
 
 The preparation process includes reviewing column names, checking data types, examining missing values, and identifying fields that are relevant to the analysis.
 
-## Dashboard Preview
-
-![Data Professional Survey Dashboard](<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/58ba552d-b5ef-4ff3-ad67-f360cab8da92" />)
+## Dashboard Contents
 
 The Power BI dashboard explores several aspects of the data profession, including:
 
